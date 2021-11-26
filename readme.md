@@ -5,21 +5,29 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Articles](#articles)
+- [Project](#projects)
+- [Adopters](#adopters)
 
 
-## Section
+## Articles
 
-About this section. Optional. Keep this short and focus on the list.
+Awesome Harbor related articles, blog posts.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 
-## Another Section
+## Projects
 
-### Subsection
+Harbor related projects and tools.
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## Adopters
+
+Companies and organisations using Harbor.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
