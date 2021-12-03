@@ -35,6 +35,7 @@ Harbor related projects and tools.
 - [harbor-container-webhook](https://github.com/indeedeng-alpha/harbor-container-webhook) - Mutating webhook for Kubernetes, which rewrites container images to use Harbor's proxy cache.
 - [Harbor Scanner Adapter for Trivy](https://github.com/aquasecurity/harbor-scanner-trivy) - Allows Harbor to use [Trivy](https://github.com/aquasecurity/trivy) for providing static analysis of vulnerabilities in container images. (It is the default static vulnerability scanner in Harbor >= 2.2.)
 - [Harbor Scanner Adapter for Aqua Enterprise](https://github.com/aquasecurity/harbor-scanner-aqua) - Allows Harbor to use Aqua Enterprise ad hoc scanning feature for providing static analysis of vulnerabilities in container images. (Requires licensed Aqua Enterprise platform installation.)
+- [Terraform Harbor provider](https://github.com/BESTSELLER/terraform-provider-harbor) - Configure and manage your Harbor instance declaratively with terraform
 
 ### SDKs For Harbor
 
