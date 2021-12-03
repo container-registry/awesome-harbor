@@ -33,8 +33,8 @@ Harbor related projects and tools.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Update your Harbor project README with a simple CLI.
 - [Mittwald Harbor Operator](https://github.com/mittwald/harbor-operator) - Kubernetes Operator for automated management of Harbor instances
 - [harbor-container-webhook](https://github.com/indeedeng-alpha/harbor-container-webhook) - Mutating webhook for Kubernetes, which rewrites container images to use Harbor's proxy cache.
-
-
+- [Harbor Scanner Adapter for Trivy](https://github.com/aquasecurity/harbor-scanner-trivy) - Allows Harbor to use [Trivy](https://github.com/aquasecurity/trivy) for providing static analysis of vulnerabilities in container images. (It is the default static vulnerability scanner in Harbor >= 2.2.)
+- [Harbor Scanner Adapter for Aqua Enterprise](https://github.com/aquasecurity/harbor-scanner-aqua) - Allows Harbor to use Aqua Enterprise ad hoc scanning feature for providing static analysis of vulnerabilities in container images. (Requires licensed Aqua Enterprise platform installation.)
 
 ### SDKs For Harbor
 
