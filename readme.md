@@ -37,6 +37,7 @@ Harbor related projects and tools.
 - [Harbor Scanner Adapter for Aqua Enterprise](https://github.com/aquasecurity/harbor-scanner-aqua) - Allows Harbor to use Aqua Enterprise ad hoc scanning feature for providing static analysis of vulnerabilities in container images. (Requires licensed Aqua Enterprise platform installation.)
 - [Terraform Harbor provider](https://github.com/BESTSELLER/terraform-provider-harbor) - Configure and manage your Harbor instance declaratively with terraform
 - [Using Kyvero and Harbor to safeguard production systems](https://github.com/jvanzyl/kyverno-registries) Allow an approved set of external registries to be used by our developers, where the image references are rewritten to use an internal Harbor proxy cache we have for the given external registry.
+- [CLI for Harbor](https://github.com/hinyinlam/cli-for-harbor) - A community created Harbor CLI written in golang 
 
 ### SDKs For Harbor
 
