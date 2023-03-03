@@ -40,6 +40,7 @@ Harbor related projects and tools.
 - [Using Kyvero and Harbor to safeguard production systems](https://github.com/jvanzyl/kyverno-registries) Allow an approved set of external registries to be used by our developers, where the image references are rewritten to use an internal Harbor proxy cache we have for the given external registry.
 - [CLI for Harbor](https://github.com/hinyinlam/cli-for-harbor) - A community created Harbor CLI written in golang 
 - [Charts-Syncer](https://github.com/bitnami-labs/charts-syncer) – Sync chart packages and associated container images between chart repositories. Also helpful when migrating Helm Chart to OCI.
+- [Harbor Example - Terraform/AWS](https://github.com/bdausses/harbor-registry-example-aws) - A quick way to build and example or demo harbor instance in AWS with optional Route 53 DNS and SSL via letsencrypt.
 
 
 ### SDKs For Harbor
