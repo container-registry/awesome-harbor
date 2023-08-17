@@ -41,7 +41,7 @@ Harbor related projects and tools.
 - [CLI for Harbor](https://github.com/hinyinlam/cli-for-harbor) - A community created Harbor CLI written in golang 
 - [Charts-Syncer](https://github.com/bitnami-labs/charts-syncer) – Sync chart packages and associated container images between chart repositories. Also helpful when migrating Helm Chart to OCI.
 - [Harbor Example - Terraform/AWS](https://github.com/bdausses/harbor-registry-example-aws) - A quick way to build and example or demo harbor instance in AWS with optional Route 53 DNS and SSL via letsencrypt.
-
+- [Harbor Vulnerabilities Exporter](https://github.com/NCCloud/harbor-vulnerabilities-exporter) - The Harbor Vulnerabilities Prometheus Exporter is a Python script that collects vulnerability information for the latest pushed images in Harbor repositories and generates Prometheus metrics based on the collected data.
 
 ### SDKs For Harbor
 
