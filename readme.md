@@ -26,7 +26,7 @@ Awesome Harbor related articles, blog posts.
 
 Harbor related projects and tools.
 
-- [Harbor Operator](https://github.com/goharbor/harbor-operator) - Deploy and also operate Harbor on Kubernetes with this operator.
+- [Harbor Operator](https://github.com/goharbor/harbor-operator) [DEPRECATED] - Day 1, Deploy and also operate Harbor on Kubernetes with this operator.
 - [harbor-automation-4k8s](https://github.com/szlabs/harbor-automation-4k8s) - Operator to makes Kubernetes integrate deeper with Harbor with functionalities like auto-inject secrets, mapping between project and namespaces, or rewriting all pull requests to proxy cache.
 - [Harbor Sync](https://github.com/moolen/harbor-sync) - Harbor Sync allows you to synchronize your Harbor robot accounts with your Kubernetes cluster.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Update your Harbor project README with a simple CLI.
