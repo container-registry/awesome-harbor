@@ -42,6 +42,7 @@ Harbor related projects and tools.
 - [Harbor Vulnerabilities Exporter](https://github.com/NCCloud/harbor-vulnerabilities-exporter) - The Harbor Vulnerabilities Prometheus Exporter is a Python script that collects vulnerability information for the latest pushed images in Harbor repositories and generates Prometheus metrics based on the collected data.
 - [Helm Chart OCI Proxy](https://github.com/container-registry/helm-charts-oci-proxy) - Proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as an OCI image.
 - [Harbor Day 2 Operator](https://github.com/steadforce/harbor-day2-operator) - The harbor day2 operator is for automated managment of existing harbor instances using python harbor-api
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with a Harbor status card for monitoring registry health, repository counts, and image vulnerability summaries across clusters.
 
 
 ### SDKs For Harbor
